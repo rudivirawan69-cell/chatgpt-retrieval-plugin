@@ -1,5 +1,4 @@
 # ChatGPT Retrieval Plugin
-
 Build Custom GPTs with a Retrieval Plugin backend to give ChatGPT access to personal documents.
 ![Example Custom GPT Screenshot](/assets/example.png)
 
